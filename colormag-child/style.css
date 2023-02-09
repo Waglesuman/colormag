@@ -1,0 +1,48 @@
+/*
+Theme Name: ColorMag Child Theme
+Theme URI: http://themegrill.com/themes/ColorMag/
+Description: ColorMag Child Theme
+Author: ThemeGrill
+Author URI: http://themegrill.com
+Template: ColorMag
+Version: 1.0
+*/
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+.success-message{
+  color: green;
+
+}
+.displayTable tr td {
+
+  border: 1px solid;
+}
+.tkeydata{
+  font-weight: bold;
+  width:20%;
+}
+.tvalue{
+  width:100%;
+}
+
+.displayImage{
+  /* vertical-align: middle; */
+  width: 20em;
+  height: 20em;
+  margin-left: 10%;
+  border-radius: 50%;
+}
+.horizontal{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 30em;
+  
+}
+
+/* .article-container{
+display: none;
+
+} */
